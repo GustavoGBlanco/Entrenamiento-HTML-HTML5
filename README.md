@@ -1,10 +1,10 @@
 # Entrenamiento-HTML-HTML5
 
-Curso gratuito sobre HTML / HTML5 en español bajo el sistema modular de enseñanza con el apoyo de conocimiento incrmental. En otras palabras, este curso se dictara por módulos, los cuales se dividen en agrupadores y estos en lecciones.
+Curso gratuito sobre HTML / HTML5 en español bajo el sistema modular de enseñanza con el apoyo de conocimiento incremental. En otras palabras, este curso se dictara por módulos, los cuales se dividen en agrupadores, estos en tematicas y estos en lecciones.
 
 ## Guia
 
-Este curso se divide en tres grandes módulos, cada módulo sera una colección de agrupadores y a su vez los agrupadores son una colección de tematicas y a su vez las tematicas son una colección de lecciones. La convención de la estructura del curso `Entrenamiento-HTML-HTML5` sera la siguiente:
+Este curso se divide en tres grandes módulos, cada módulo sera una colección de agrupadores, a su vez los agrupadores son una colección de tematicas y a su vez las tematicas son una colección de lecciones. La convención de la estructura del curso `Entrenamiento-HTML-HTML5` sera la siguiente:
 
 ```Javascript
 [Modulo]
@@ -118,6 +118,15 @@ El sistema modular de enseñanza tendra la siguiente estructura:
       - Proporcionando un estilo común a las columnas
     - Funciones avanzadas y accesibilidad de la tabla HTML
       - Agregando una leyenda a su tabla con `<caption>`
-      - Añadiendo estructura con `<thead>`, `<tfood>`, y `<tbody>`
+      - Añadiendo estructura con `<thead>`, `<tfoot>`, y `<tbody>`
       - Tablas anidadas
       - tablas para usuarios con discapacidad visual
+      
+## Otros temas
+
+No duden en hacerme saber temas que crean importantes y no esten en los módulos.
+
+## Medio audiovisual de clases
+
+[Canal de Youtube - Suscribete](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g)
+
