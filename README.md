@@ -2,6 +2,9 @@
 
 Curso gratuito sobre HTML / HTML5 en español bajo el sistema modular de enseñanza con el apoyo de conocimiento incremental. En otras palabras, este curso se dictara por módulos, los cuales se dividen en agrupadores, estos en tematicas y estos en lecciones.
 
+## Fecha de Inicio
+Sabado 30 de Enero del 2021 - 10:00 am - 11:00am. Explicaremos todo con respecto al curso. Te espero!. No olvides suscribirte al [Canal de Youtube](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g) para estar al tanto de los live y participar en este entrenamiento.
+
 ## Guia
 
 Este curso se divide en tres grandes módulos, cada módulo sera una colección de agrupadores, a su vez los agrupadores son una colección de tematicas y a su vez las tematicas son una colección de lecciones. La convención de la estructura del curso `Entrenamiento-HTML-HTML5` sera la siguiente:
