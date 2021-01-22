@@ -3,9 +3,10 @@
 Curso gratuito sobre HTML / HTML5 en español bajo el sistema modular de enseñanza con el apoyo de conocimiento incremental. En otras palabras, este curso se dictara por módulos, los cuales se dividen en agrupadores, estos en tematicas y estos en lecciones.
 
 ## Fecha de Inicio
+
 Sabado 30 de Enero del 2021<br>
 10:00 am - 11:00 am.<br>
-Explicaremos todo con respecto al curso. Te espero!. No olvides suscribirte al [Canal de Youtube](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g) para estar al tanto de los live y participar en este entrenamiento.
+Explicaremos todo con respecto al curso. Te espero!. Recuerda que serán clases semanales de una hora por semana para abarcar todo este tema. No olvides suscribirte al [Canal de Youtube](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g) para estar al tanto de los live y participar en este entrenamiento.
 
 ## Guia
 
@@ -137,9 +138,9 @@ No duden en hacerme saber temas que crean importantes y no esten en los módulos
 
 ## Trayectoria Laboral
 
-Aca pueden encontrar mi trayectoria en esta magnifica industria [link](https://www.linkedin.com/in/gustavogblanco/)<br>
+Aca pueden encontrar mi trayectoria en esta magnifica industria [LinkedIn](https://www.linkedin.com/in/gustavogblanco/)<br>
 Otros links con información del curso:<br>
-[Facebook](https://www.facebook.com/GustavoGBlanco)<br>
-[Twitter](https://twitter.com/GustavoAGBlanco)
+- [Facebook](https://www.facebook.com/GustavoGBlanco)<br>
+- [Twitter](https://twitter.com/GustavoAGBlanco)
 
 
