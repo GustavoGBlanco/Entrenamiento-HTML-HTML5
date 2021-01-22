@@ -138,7 +138,8 @@ No duden en hacerme saber temas que crean importantes y no esten en los módulos
 
 ## Trayectoria Laboral
 
-Aca pueden encontrar mi trayectoria en esta magnifica industria [LinkedIn](https://www.linkedin.com/in/gustavogblanco/)<br>
+En el siguiente link pueden encontrar mi trayectoria en esta magnifica industria:
+- [LinkedIn](https://www.linkedin.com/in/gustavogblanco/)<br><br>
 Otros links con información del curso:<br>
 - [Facebook](https://www.facebook.com/GustavoGBlanco)<br>
 - [Twitter](https://twitter.com/GustavoAGBlanco)
