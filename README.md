@@ -134,12 +134,19 @@ No duden en hacerme saber temas que crean importantes y no esten en los módulos
 
 ## Medio audiovisual de clases
 
-[Canal de Youtube - Suscribete](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g)
+[Canal de Youtube - Suscribete](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g)<br><br>
+
+Videos que deben ver antes del sabado 30 de Enero del 2021:<br><br>
+
+- [Presentación informal del curso](https://www.youtube.com/watch?v=fT51NUXIXgw)
+- [Instalar un IDE](https://www.youtube.com/watch?v=RrTpKRSBPi0)<br>
+
 
 ## Trayectoria Laboral
 
 En el siguiente link pueden encontrar mi trayectoria en esta magnifica industria:
 - [LinkedIn](https://www.linkedin.com/in/gustavogblanco/)<br><br>
+
 Otros links con información del curso:<br>
 - [Facebook](https://www.facebook.com/GustavoGBlanco)<br>
 - [Twitter](https://twitter.com/GustavoAGBlanco)
