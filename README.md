@@ -140,6 +140,7 @@ Videos que deben ver antes del sabado 30 de Enero del 2021:<br><br>
 
 - [Presentación informal del curso](https://www.youtube.com/watch?v=fT51NUXIXgw)
 - [Instalar un IDE](https://www.youtube.com/watch?v=RrTpKRSBPi0)<br>
+- [Convensión de Nombres: camelCase, PascalCase, snake_case y kebab-case](https://www.youtube.com/watch?v=CNIaWjMpn6s)<br>
 
 
 ## Trayectoria Laboral
