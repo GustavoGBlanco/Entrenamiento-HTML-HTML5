@@ -42,12 +42,12 @@ El sistema modular de enseñanza tendra la siguiente estructura:
 - Introducción a `HTML`
   - Introducción general a `HTML`
     - Empezando con HTML
-      - Que es `HTML`
-      - Anatomía de un elemento `HTML`
-      - Ejemplo de elementos
-      - Elementos anidados
-      - Elementos bloque vs Elementos en línea
-      - Elementos vacíos
+      - Que es `HTML` [Visto en clase - Sabado 30 de Enero 2021]
+      - Anatomía de un elemento `HTML` [Visto en clase - Sabado 30 de Enero 2021]
+      - Ejemplo de elementos [Visto en clase - Sabado 30 de Enero 2021]
+      - Elementos anidados [Visto en clase - Sabado 30 de Enero 2021]
+      - Elementos bloque vs Elementos en línea [Visto en clase - Sabado 30 de Enero 2021]
+      - Elementos vacíos [Visto en clase - Sabado 30 de Enero 2021]
       - Atributos
       - Atributos `Booleans`
       - Omitiendo comillas alrededor de los valores de los atributos
