@@ -10,9 +10,6 @@ Sabado 30 de Enero del 2021<br>
 10:00 am - 11:00 am.<br>
 Explicaremos todo con respecto al curso. Te espero!. Recuerda que serán clases semanales de una hora por semana para abarcar todo este tema. No olvides suscribirte al [Canal de Youtube](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g) para estar al tanto de los live y participar en este entrenamiento.
 
-A mas tardar el lunes 1 de Febrero del 2021 se subira el video de la 1 clase, para que puedan repasar y puedan pausar o adelantar los temas vistos.
-
-
 Segunda Clase
 
 Domingo 7 de Febrero del 2021<br>
@@ -154,6 +151,14 @@ Videos que deben ver antes del sabado 30 de Enero del 2021:<br><br>
 - [Instalar un IDE](https://www.youtube.com/watch?v=RrTpKRSBPi0)<br>
 - [Convensión de Nombres: camelCase, PascalCase, snake_case y kebab-case](https://www.youtube.com/watch?v=CNIaWjMpn6s)<br>
 - [Como instalar la extensión Live server en nuestro IDE Visual studio code](https://www.youtube.com/watch?v=CKTHUVvSocw&t=6s)<br>
+
+Lecciones vistas en le clase del sabado 30 de Enero del 2021:<br><br>
+
+- [Lección 01 - ¿Que es HTML?](https://www.youtube.com/watch?v=_F7JETDbL_8)
+- [Lección 02 - Anatomía de un elemento HTML](https://www.youtube.com/watch?v=sknRjUwDCt0)<br>
+- [Lección 03 - Ejemplo de elementos HTML](https://www.youtube.com/watch?v=sGbkiztY9c8)<br>
+- [Lección 04 - Elementos Anidados / Elementos en bloque y en linea](https://www.youtube.com/watch?v=FFta4vGaGik)<br>
+- [Lección 05 - Elementos Vacíos](https://www.youtube.com/watch?v=EYJxW2l3hxo)<br>
 
 
 ## Trayectoria Laboral
