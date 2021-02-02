@@ -150,9 +150,9 @@ Videos que deben ver antes del sabado 30 de Enero del 2021:<br><br>
 - [Presentación informal del curso](https://www.youtube.com/watch?v=fT51NUXIXgw)
 - [Instalar un IDE](https://www.youtube.com/watch?v=RrTpKRSBPi0)<br>
 - [Convensión de Nombres: camelCase, PascalCase, snake_case y kebab-case](https://www.youtube.com/watch?v=CNIaWjMpn6s)<br>
-- [Como instalar la extensión Live server en nuestro IDE Visual studio code](https://www.youtube.com/watch?v=CKTHUVvSocw&t=6s)<br>
+- [Como instalar la extensión Live server en nuestro IDE Visual studio code](https://www.youtube.com/watch?v=CKTHUVvSocw&t=6s)<br><br>
 
-Lecciones vistas en le clase del sabado 30 de Enero del 2021:<br><br>
+Lecciones vistas en la clase del sabado 30 de Enero del 2021:<br>
 
 - [Lección 01 - ¿Que es HTML?](https://www.youtube.com/watch?v=_F7JETDbL_8)
 - [Lección 02 - Anatomía de un elemento HTML](https://www.youtube.com/watch?v=sknRjUwDCt0)<br>
