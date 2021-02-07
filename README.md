@@ -13,7 +13,22 @@ Explicaremos todo con respecto al curso. Te espero!. Recuerda que serán clases 
 Segunda Clase
 
 Domingo 7 de Febrero del 2021<br>
+10:00 am - 11:40 am.<br>
+El día de mañana se subiran los videos de las lecciones vistas el día de hoy, las cuales fueron:<br>
+      - Atributos<br>
+      - Atributos `Booleans`<br>
+      - Omitiendo comillas alrededor de los valores de los atributos<br>
+      - Comillas simples o comillas dobles<br>
+      - Anatomía de un documento `HTML`<br>
+      - Espacios en blanco en `HTML`<br>
+      - Referencias de entidad: Incluyendo caracteres especiales en `HTML`<br>
+      - Comentarios en `HTML`<br>
+
+Tercera Clase
+
+Domingo 14 de Febrero del 2021<br>
 10:00 am - 11:00 am.<br>
+
 
 
 ## Guia
@@ -45,14 +60,14 @@ El sistema modular de enseñanza tendra la siguiente estructura:
       - ~~Elementos anidados *Visto en clase - Sabado 30 de Enero 2021*~~
       - ~~Elementos bloque vs Elementos en línea *Visto en clase - Sabado 30 de Enero 2021*~~
       - ~~Elementos vacíos *Visto en clase - Sabado 30 de Enero 2021*~~
-      - Atributos
-      - Atributos `Booleans`
-      - Omitiendo comillas alrededor de los valores de los atributos
-      - Comillas simples o comillas dobles
-      - Anatomía de un documento `HTML`
-      - Espacios en blanco en `HTML`
-      - Referencias de entidad: Incluyendo caracteres especiales en `HTML`
-      - Comentarios en `HTML`
+      - ~~Atributos - Domingo 07 de Febrero 2021*~
+      - ~~Atributos `Booleans` - Domingo 07 de Febrero 2021*~
+      - ~~Omitiendo comillas alrededor de los valores de los atributos - Domingo 07 de Febrero 2021*~
+      - ~~Comillas simples o comillas dobles - Domingo 07 de Febrero 2021*~
+      - ~~Anatomía de un documento `HTML` - Domingo 07 de Febrero 2021*~
+      - ~~Espacios en blanco en `HTML` - Domingo 07 de Febrero 2021*~
+      - ~~Referencias de entidad: Incluyendo caracteres especiales en `HTML` - Domingo 07 de Febrero 2021*~
+      - ~~Comentarios en `HTML` - Domingo 07 de Febrero 2021*~
     - Que hay en el encabezado y Metadatos en HTML
       - Que es un encabezado `HTML`
       - Agregando un título
@@ -158,7 +173,11 @@ Lecciones vistas en la clase del sabado 30 de Enero del 2021:<br>
 - [Lección 02 - Anatomía de un elemento HTML](https://www.youtube.com/watch?v=sknRjUwDCt0)<br>
 - [Lección 03 - Ejemplo de elementos HTML](https://www.youtube.com/watch?v=sGbkiztY9c8)<br>
 - [Lección 04 - Elementos Anidados / Elementos en bloque y en linea](https://www.youtube.com/watch?v=FFta4vGaGik)<br>
-- [Lección 05 - Elementos Vacíos](https://www.youtube.com/watch?v=EYJxW2l3hxo)<br>
+- [Lección 05 - Elementos Vacíos](https://www.youtube.com/watch?v=EYJxW2l3hxo)<br><br>
+
+Lecciones vistas en la clase del domingo 07 de Febrero del 2021:<br>
+
+- Proximamente
 
 
 ## Trayectoria Laboral
