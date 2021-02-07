@@ -60,14 +60,14 @@ El sistema modular de enseñanza tendra la siguiente estructura:
       - ~~Elementos anidados *Visto en clase - Sabado 30 de Enero 2021*~~
       - ~~Elementos bloque vs Elementos en línea *Visto en clase - Sabado 30 de Enero 2021*~~
       - ~~Elementos vacíos *Visto en clase - Sabado 30 de Enero 2021*~~
-      - ~~Atributos *Visto en clase - Domingo 07 de Febrero 2021*~
-      - ~~Atributos `Booleans` *Visto en clase - Domingo 07 de Febrero 2021*~
-      - ~~Omitiendo comillas alrededor de los valores de los atributos *Visto en clase -Domingo 07 de Febrero 2021*~
-      - ~~Comillas simples o comillas dobles *Visto en clase -Domingo 07 de Febrero 2021*~
-      - ~~Anatomía de un documento `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~
-      - ~~Espacios en blanco en `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~
-      - ~~Referencias de entidad: Incluyendo caracteres especiales en `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~
-      - ~~Comentarios en `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~
+      - ~~Atributos *Visto en clase - Domingo 07 de Febrero 2021*~~
+      - ~~Atributos `Booleans` *Visto en clase - Domingo 07 de Febrero 2021*~~
+      - ~~Omitiendo comillas alrededor de los valores de los atributos *Visto en clase -Domingo 07 de Febrero 2021*~~
+      - ~~Comillas simples o comillas dobles *Visto en clase -Domingo 07 de Febrero 2021*~~
+      - ~~Anatomía de un documento `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~~
+      - ~~Espacios en blanco en `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~~
+      - ~~Referencias de entidad: Incluyendo caracteres especiales en `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~~
+      - ~~Comentarios en `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~~
     - Que hay en el encabezado y Metadatos en HTML
       - Que es un encabezado `HTML`
       - Agregando un título
