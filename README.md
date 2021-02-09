@@ -177,7 +177,14 @@ Lecciones vistas en la clase del sabado 30 de Enero del 2021:<br>
 
 Lecciones vistas en la clase del domingo 07 de Febrero del 2021:<br>
 
-- Proximamente
+- [Lección 06 - Atributos](https://youtu.be/97gWag9MQYY)
+- [Lección 07 - Atributos Booleanos](https://youtu.be/SPkcRWsEO6c)<br>
+- [Lección 08 - Omitiendo comillas alrededor de los valores de los atributos](https://youtu.be/rDo0Lu6frm0)<br>
+- [Lección 09 - Comillas simples o comillas dobles](https://youtu.be/-Qub3ppLgbE)<br>
+- [Lección 10 - Anatomía de un documento HTML](https://youtu.be/6XuPKc7f6uM)<br>
+- [Lección 11 - Espacios en blanco en HTML](https://youtu.be/pBo2GxBjyyI)<br>
+- [Lección 12 - Referencias de entidad: Incluyendo caracteres especiales en HTML](https://youtu.be/D9noz3zhApg)<br>
+- [Lección 13 - Comentarios en HTML](https://youtu.be/-RWncYQV04k)<br><br>
 
 
 ## Trayectoria Laboral
