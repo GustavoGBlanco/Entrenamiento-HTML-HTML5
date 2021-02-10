@@ -28,7 +28,7 @@ Tercera Clase
 
 Domingo 14 de Febrero del 2021<br>
 10:00 am - 11:00 am.<br>
-[Link de meet para la clase](meet.google.com/ixv-rjnq-dth)
+[Link de meet para la clase](https://meet.google.com/ixv-rjnq-dth)
 
 
 
