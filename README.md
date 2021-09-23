@@ -10,6 +10,8 @@ Domingo 19 de Septiembre del 2021<br>
 10:00 am - 11:30 am.<br>
 Explicaremos todo con respecto al curso. Te espero!. Recuerda que serán clases semanales de una hora por semana para abarcar todo este tema. No olvides suscribirte al [Canal de Youtube](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g) para estar al tanto de los live y participar en este entrenamiento.
 
+El video de esta clase se colgara el sabado 25 de Septiembre, para qeu puedan repasar y llegar con todo el conocimiento para la 2 clase, por motivos de salud, no se ha edita el video de la clase 1. Pero tranquilos, quedara el sabado, los esperamos este domingo 26 de Septiembre en su segunda clase!.
+
 Segunda Clase
 
 Domingo 26 de Septiembre del 2021<br>
