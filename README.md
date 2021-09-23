@@ -143,7 +143,7 @@ No duden en hacerme saber temas que crean importantes y no esten en los módulos
 ## Medio audiovisual de clases
 
 [Canal de Youtube - Suscribete](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g)<br><br>
-[Link de las calses dominicales](https://meet.google.com/vbe-cuog-jjy)<br><br>
+[Link de las clases dominicales](https://meet.google.com/vbe-cuog-jjy)<br><br>
 
 
 ## Trayectoria Laboral
@@ -153,6 +153,7 @@ En el siguiente link pueden encontrar mi trayectoria en esta magnifica industria
 
 Otros links con información del curso:<br>
 - [Facebook](https://www.facebook.com/GustavoGBlanco)<br>
-- [Twitter](https://twitter.com/GustavoAGBlanco)
+- [Twitter](https://twitter.com/GustavoAGBlanco)<br>
+- [Slack](https://join.slack.com/t/gustavogarciaespacio/shared_invite/zt-vtc79p28-p7_DvkLzPTLI2Sp9heZsQw) El link se renueva cada 15 días.
 
 
