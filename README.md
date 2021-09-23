@@ -6,37 +6,14 @@ Curso gratuito sobre HTML / HTML5 en español bajo el sistema modular de enseña
 
 Primera Clase
 
-Sabado 30 de Enero del 2021<br>
-10:00 am - 11:00 am.<br>
+Domingo 19 de Septiembre del 2021<br>
+10:00 am - 11:30 am.<br>
 Explicaremos todo con respecto al curso. Te espero!. Recuerda que serán clases semanales de una hora por semana para abarcar todo este tema. No olvides suscribirte al [Canal de Youtube](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g) para estar al tanto de los live y participar en este entrenamiento.
 
 Segunda Clase
 
-Domingo 7 de Febrero del 2021<br>
-10:00 am - 11:40 am.<br>
-El día de mañana se subiran los videos de las lecciones vistas el día de hoy, las cuales fueron:<br>
-      - Atributos<br>
-      - Atributos `Booleans`<br>
-      - Omitiendo comillas alrededor de los valores de los atributos<br>
-      - Comillas simples o comillas dobles<br>
-      - Anatomía de un documento `HTML`<br>
-      - Espacios en blanco en `HTML`<br>
-      - Referencias de entidad: Incluyendo caracteres especiales en `HTML`<br>
-      - Comentarios en `HTML`<br>
-
-Tercera Clase
-
-Domingo 14 de Febrero del 2021<br>
-10:00 am - 11:00 am.<br>
-[Link de meet para la clase](https://meet.google.com/ixv-rjnq-dth)
-
-Cuarta Clase
-
-Domingo 21 de Febrero del 2021<br>
-10:00 am - 11:00 am.<br>
-[Link de meet para la clase](https://meet.google.com/ixv-rjnq-dth)
-
-
+Domingo 26 de Septiembre del 2021<br>
+10:00 am - 11:30 am.<br>
 
 ## Guia
 
@@ -61,20 +38,20 @@ El sistema modular de enseñanza tendra la siguiente estructura:
 - Introducción a `HTML`
   - Introducción general a `HTML`
     - Empezando con HTML
-      - ~~Que es `HTML` *Visto en clase - Sabado 30 de Enero 2021*~~
-      - ~~Anatomía de un elemento `HTML` *Visto en clase - Sabado 30 de Enero 2021*~~
-      - ~~Ejemplo de elementos *Visto en clase - Sabado 30 de Enero 2021*~~
-      - ~~Elementos anidados *Visto en clase - Sabado 30 de Enero 2021*~~
-      - ~~Elementos bloque vs Elementos en línea *Visto en clase - Sabado 30 de Enero 2021*~~
-      - ~~Elementos vacíos *Visto en clase - Sabado 30 de Enero 2021*~~
-      - ~~Atributos *Visto en clase - Domingo 07 de Febrero 2021*~~
-      - ~~Atributos `Booleans` *Visto en clase - Domingo 07 de Febrero 2021*~~
-      - ~~Omitiendo comillas alrededor de los valores de los atributos *Visto en clase -Domingo 07 de Febrero 2021*~~
-      - ~~Comillas simples o comillas dobles *Visto en clase -Domingo 07 de Febrero 2021*~~
-      - ~~Anatomía de un documento `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~~
-      - ~~Espacios en blanco en `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~~
-      - ~~Referencias de entidad: Incluyendo caracteres especiales en `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~~
-      - ~~Comentarios en `HTML` *Visto en clase -Domingo 07 de Febrero 2021*~~
+      - Que es `HTML`
+      - Anatomía de un elemento `HTML`
+      - Ejemplo de elementos
+      - Elementos anidados
+      - Elementos bloque vs Elementos en línea
+      - Elementos vacíos
+      - Atributos
+      - Atributos `Booleans`
+      - Omitiendo comillas alrededor de los valores de los atributos
+      - Comillas simples o comillas dobles
+      - Anatomía de un documento `HTML`
+      - Espacios en blanco en `HTML`
+      - Referencias de entidad: Incluyendo caracteres especiales en `HTML`
+      - Comentarios en `HTML`
     - Que hay en el encabezado y Metadatos en HTML
       - Que es un encabezado `HTML`
       - Agregando un título
@@ -166,32 +143,7 @@ No duden en hacerme saber temas que crean importantes y no esten en los módulos
 ## Medio audiovisual de clases
 
 [Canal de Youtube - Suscribete](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g)<br><br>
-
-Videos que deben ver antes del sabado 30 de Enero del 2021:<br><br>
-
-- [Presentación informal del curso](https://www.youtube.com/watch?v=fT51NUXIXgw)
-- [Instalar un IDE](https://www.youtube.com/watch?v=RrTpKRSBPi0)<br>
-- [Convensión de Nombres: camelCase, PascalCase, snake_case y kebab-case](https://www.youtube.com/watch?v=CNIaWjMpn6s)<br>
-- [Como instalar la extensión Live server en nuestro IDE Visual studio code](https://www.youtube.com/watch?v=CKTHUVvSocw&t=6s)<br><br>
-
-Lecciones vistas en la clase del sabado 30 de Enero del 2021:<br>
-
-- [Lección 01 - ¿Que es HTML?](https://www.youtube.com/watch?v=_F7JETDbL_8)
-- [Lección 02 - Anatomía de un elemento HTML](https://www.youtube.com/watch?v=sknRjUwDCt0)<br>
-- [Lección 03 - Ejemplo de elementos HTML](https://www.youtube.com/watch?v=sGbkiztY9c8)<br>
-- [Lección 04 - Elementos Anidados / Elementos en bloque y en linea](https://www.youtube.com/watch?v=FFta4vGaGik)<br>
-- [Lección 05 - Elementos Vacíos](https://www.youtube.com/watch?v=EYJxW2l3hxo)<br><br>
-
-Lecciones vistas en la clase del domingo 07 de Febrero del 2021:<br>
-
-- [Lección 06 - Atributos](https://youtu.be/97gWag9MQYY)
-- [Lección 07 - Atributos Booleanos](https://youtu.be/SPkcRWsEO6c)<br>
-- [Lección 08 - Omitiendo comillas alrededor de los valores de los atributos](https://youtu.be/rDo0Lu6frm0)<br>
-- [Lección 09 - Comillas simples o comillas dobles](https://youtu.be/-Qub3ppLgbE)<br>
-- [Lección 10 - Anatomía de un documento HTML](https://youtu.be/6XuPKc7f6uM)<br>
-- [Lección 11 - Espacios en blanco en HTML](https://youtu.be/pBo2GxBjyyI)<br>
-- [Lección 12 - Referencias de entidad: Incluyendo caracteres especiales en HTML](https://youtu.be/D9noz3zhApg)<br>
-- [Lección 13 - Comentarios en HTML](https://youtu.be/-RWncYQV04k)<br><br>
+[Link de las calses dominicales](https://meet.google.com/vbe-cuog-jjy)<br><br>
 
 
 ## Trayectoria Laboral
