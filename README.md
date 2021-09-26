@@ -149,14 +149,13 @@ No duden en hacerme saber temas que crean importantes y no esten en los módulos
 [Link de las clases dominicales](https://meet.google.com/vbe-cuog-jjy)<br><br>
 
 Clase 01<br>
-Domingo 19 de Septiembre del 2021<br>
-[Clase 01 - Instalar un IDE (Visual Studio Code) y la extensión de Live Server](https://youtu.be/CMK7GFovVrs)<br><br>
-[Clase 02 - ¿Que es HTML?](https://youtu.be/9fPhfZVmtgg)<br><br>
-[Clase 03 | Parte 01 - Anatomia de un Documento `HTML` y ¿Que es un elemento `HTML`?](https://youtu.be/Mrsl7hW-Zrc)<br><br>
-[Clase 03 | Parte 02 - Anatomia de un Documento `HTML` y ¿Que es un elemento `HTML`](https://youtu.be/_SvE4jLw9Gs)<br><br>
-[Clase 04 - Ejemplos de elemetnos `HTML`](https://youtu.be/PAK_UHWgYV8)<br><br>
-[Clase 05 - Elementos anidados](https://youtu.be/qTUP7Wz_Olk)<br><br>
-
+Domingo 19 de Septiembre del 2021<br><br>
+[Clase 01 - Instalar un IDE (Visual Studio Code) y la extensión de Live Server](https://youtu.be/CMK7GFovVrs)<br>
+[Clase 02 - ¿Que es HTML?](https://youtu.be/9fPhfZVmtgg)<br>
+[Clase 03 | Parte 01 - Anatomia de un Documento `HTML` y ¿Que es un elemento `HTML`?](https://youtu.be/Mrsl7hW-Zrc)<br>
+[Clase 03 | Parte 02 - Anatomia de un Documento `HTML` y ¿Que es un elemento `HTML`](https://youtu.be/_SvE4jLw9Gs)<br>
+[Clase 04 - Ejemplos de elemetnos `HTML`](https://youtu.be/PAK_UHWgYV8)<br>
+[Clase 05 - Elementos anidados](https://youtu.be/qTUP7Wz_Olk)<br>
 
 ## Trayectoria Laboral
 
