@@ -41,6 +41,7 @@ El sistema modular de enseñanza tendra la siguiente estructura:
   - Introducción general a `HTML`
     - Empezando con HTML
       - Que es `HTML`
+      - Anatomía de un documento `HTML`
       - Anatomía de un elemento `HTML`
       - Ejemplo de elementos
       - Elementos anidados
