@@ -167,4 +167,14 @@ Otros links con información del curso:<br>
 - [Twitter](https://twitter.com/GustavoAGBlanco)<br>
 - [Slack](https://join.slack.com/t/gustavogarciaespacio/shared_invite/zt-vtc79p28-p7_DvkLzPTLI2Sp9heZsQw) El link se renueva cada 15 días.
 
+## Desafios
+
+En construcción.
+
+## Proyecto Final del Bootcamp
+
+- Reto: Crear su propio sitio web.
+- Descripción: En construcción.
+- Criterios de aceptación: En construcción.
+
 
