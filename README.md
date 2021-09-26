@@ -10,7 +10,7 @@ Domingo 19 de Septiembre del 2021<br>
 10:00 am - 11:30 am.<br>
 Explicaremos todo con respecto al curso. Te espero!. Recuerda que serán clases semanales de una hora por semana para abarcar todo este tema. No olvides suscribirte al [Canal de Youtube](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g) para estar al tanto de los live y participar en este entrenamiento.
 
-El video de esta clase se colgara el sabado 25 de Septiembre, para que puedan repasar y llegar con todo el conocimiento para la 2 clase, por motivos de salud, no se ha edita el video de la clase 1. Pero tranquilos, quedara el sabado, los esperamos este domingo 26 de Septiembre en su segunda clase!.
+Los temas explicados en esta clase en vivo, ya se encuentra arriba, se encuentran en youtube, no duden en revisarlos!.
 
 Segunda Clase
 
@@ -40,11 +40,11 @@ El sistema modular de enseñanza tendra la siguiente estructura:
 - Introducción a `HTML`
   - Introducción general a `HTML`
     - Empezando con HTML
-      - Que es `HTML`
-      - Anatomía de un documento `HTML`
-      - Anatomía de un elemento `HTML`
-      - Ejemplo de elementos
-      - Elementos anidados
+      - Que es `HTML` *Visto Clase 01*
+      - Anatomía de un documento `HTML` *Visto Clase 01*
+      - Anatomía de un elemento `HTML` *Visto Clase 01*
+      - Ejemplo de elementos *Visto Clase 01*
+      - Elementos anidados *Visto Clase 01*
       - Elementos bloque vs Elementos en línea
       - Elementos vacíos
       - Atributos
@@ -147,6 +147,14 @@ No duden en hacerme saber temas que crean importantes y no esten en los módulos
 
 [Canal de Youtube - Suscribete](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g)<br><br>
 [Link de las clases dominicales](https://meet.google.com/vbe-cuog-jjy)<br><br>
+
+Clase 01
+[Clase 01 - Instalar un IDE (Visual Studio Code) y la extensión de Live Server](https://youtu.be/CMK7GFovVrs)<br><br>
+[Clase 02 - ¿Que es HTML?](https://youtu.be/9fPhfZVmtgg)<br><br>
+[Clase 03 | Parte 01 - Anatomia de un Documento `HTML` y ¿Que es un elemento `HTML`?](https://youtu.be/Mrsl7hW-Zrc)<br><br>
+[Clase 03 | Parte 02 - Anatomia de un Documento `HTML` y ¿Que es un elemento `HTML`](https://youtu.be/_SvE4jLw9Gs)<br><br>
+[Clase 04 - Ejemplos de elemetnos `HTML`](https://youtu.be/PAK_UHWgYV8)<br><br>
+[Clase 05 - Elementos anidados](https://youtu.be/qTUP7Wz_Olk)<br><br>
 
 
 ## Trayectoria Laboral
