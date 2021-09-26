@@ -149,6 +149,7 @@ No duden en hacerme saber temas que crean importantes y no esten en los módulos
 [Link de las clases dominicales](https://meet.google.com/vbe-cuog-jjy)<br><br>
 
 Clase 01
+Domingo 19 de Septiembre del 2021
 [Clase 01 - Instalar un IDE (Visual Studio Code) y la extensión de Live Server](https://youtu.be/CMK7GFovVrs)<br><br>
 [Clase 02 - ¿Que es HTML?](https://youtu.be/9fPhfZVmtgg)<br><br>
 [Clase 03 | Parte 01 - Anatomia de un Documento `HTML` y ¿Que es un elemento `HTML`?](https://youtu.be/Mrsl7hW-Zrc)<br><br>
