@@ -8,7 +8,7 @@ Primera Clase
 
 Domingo 19 de Septiembre del 2021<br>
 10:00 am - 11:30 am.<br>
-Explicaremos todo con respecto al curso. Te espero!. Recuerda que serán clases semanales de una hora por semana para abarcar todo este tema. No olvides suscribirte al [Canal de Youtube](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g) para estar al tanto de los live y participar en este entrenamiento.
+Explicaremos todo con respecto al curso. Te espero!. Recuerda que serán clases semanales de una hora por semana para abarcar todo este tema. No olvides suscribirte al [Canal de Youtube](https://www.youtube.com/c/GustavoGarciaBlanco) para estar al tanto de los live y participar en este entrenamiento.
 
 Los temas explicados en esta clase en vivo, ya se encuentra arriba, se encuentran en youtube, no duden en revisarlos!.
 
@@ -145,7 +145,7 @@ No duden en hacerme saber temas que crean importantes y no esten en los módulos
 
 ## Medio audiovisual de clases
 
-[Canal de Youtube - Suscribete](https://www.youtube.com/channel/UCo3pPsOUlkO3r-kRJzei83g)<br><br>
+[Canal de Youtube - Suscribete](https://www.youtube.com/c/GustavoGarciaBlanco)<br><br>
 [Link de las clases dominicales](https://meet.google.com/vbe-cuog-jjy)<br><br>
 
 Clase 01<br>
